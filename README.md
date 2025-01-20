@@ -26,5 +26,5 @@
 
 # Where am I deployed?
 
-<https://dep-assignment1-6dc177tyt-britney-lopezs-projects.vercel.app>
+<https://dep-assignment1-a.vercel.app/>
 
