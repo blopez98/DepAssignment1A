@@ -26,5 +26,5 @@
 
 # Where am I deployed?
 
-<https://vercel.com/britney-lopezs-projects/dep-assignment1-a/CCwdTPBecWbbdQLAzrv2wJT2x42X>
+<https://dep-assignment1-6dc177tyt-britney-lopezs-projects.vercel.app>
 
